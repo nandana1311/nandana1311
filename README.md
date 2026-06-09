@@ -56,8 +56,7 @@ Currently exploring the intersection of intelligent systems and the web — one 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandana1311&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandana1311&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=nandana1311&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
